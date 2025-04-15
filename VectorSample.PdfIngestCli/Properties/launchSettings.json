@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VectorSample.PdfIngestCli": {
+      "commandName": "Project",
+      "commandLineArgs": "\"KSS System Message_unlocked.pdf\""
+    }
+  }
+}

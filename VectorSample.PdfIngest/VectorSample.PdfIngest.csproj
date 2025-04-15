@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="PdfPig" Version="0.1.11-alpha-20250413-58085" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VectorSample.Database\VectorSample.Database.csproj" />
+    <ProjectReference Include="..\VectorSample.EmbeddingServices\VectorSample.EmbeddingServices.csproj" />
+  </ItemGroup>
+
+</Project>

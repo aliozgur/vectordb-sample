@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VectorSample.KukaIngestCli": {
+      "commandName": "Project",
+      "commandLineArgs": "\"KukaMessages.json\""
+    }
+  }
+}
